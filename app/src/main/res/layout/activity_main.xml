@@ -103,4 +103,12 @@
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="508dp" />
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="130dp"
+        android:layout_height="112dp"
+        app:srcCompat="@drawable/microsoftteams_image__1_"
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="84dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
